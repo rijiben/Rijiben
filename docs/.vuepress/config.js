@@ -1,11 +1,11 @@
 module.exports = {
   title: '工作笔记',
-  description: '王先生的日记本',
+  description: '王不会的日记本',
   head: [
-    ['link', { rel: 'icon', href: `/favicon.ico` }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
-
   base: '/',   //基础路径,
+  port:8001,
   markdown: {
     lineNumbers: true //代码块显示行号
   },
