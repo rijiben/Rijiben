@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: 浏览目录 →
-actionLink: /zh/guide/
+actionLink: /origin/
 features:
 - title: 南山下，豆苗稀
   details: 种豆南山下，草盛豆苗稀。
